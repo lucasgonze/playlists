@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <playlist version="1" xmlns="http://xspf.org/ns/0/">
+            <title>BBQ</title>
+            <trackList>
+                <track><creator>Woody Guthrie</creator><title>Keep My Skillet Good And Greasy</title><album>The Asch Recordings, Vol. 1-4</album></track>
+                <track><creator>Andre Williams</creator><title>Bacon Fat</title><album>Rib Tips &amp; Greasy Chicken!</album></track>
+                <track><creator>Weezer</creator><title>Pork And Beans</title><album>Weezer (Red Album)</album></track>
+                <track><creator>Norman Blake, Nancy Blake &amp; Tut Taylor</creator><title>It Must Be Jelly</title><album>Shacktown Road</album></track>
+                <track><creator>Andre Williams</creator><title>The Greasy Chicken</title><album>Rib Tips &amp; Greasy Chicken!</album></track>
+                <track><creator>Bill Haley</creator><title>Hot Dog, Buddy, Buddy</title><album>What's Cookin'? - Tasty U.s. Food Songs From The 1920s-1050s</album></track>
+                <track><creator>Prince Albert Hunt</creator><title>Blues In A Bottle</title><album>Times Ain't Like They Used To Be, Vol.1</album></track>
+                <track><creator>Roy Brown</creator><title>Butcher Pete</title><album>The History Of Rhythm And Blues - Disc 3</album></track>
+                <track><creator>Rudy Jones</creator><title>Dancin' In An Easy Groove</title><album>Move Your Hand</album></track>
+            </trackList>
+        </playlist>

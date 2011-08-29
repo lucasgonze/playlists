@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <playlist version="1" xmlns="http://xspf.org/ns/0/">
+            <title>Cop Buddy Movie</title>
+            <trackList>
+                <track><creator>Booker T. &amp; The MG's</creator><title>Green Onions</title><album>Green Onions</album></track>
+                <track><creator>Thin Lizzy</creator><title>Jailbreak</title><album>Jailbreak</album></track>
+                <track><creator>Bill Carlisle</creator><title>No Help Wanted</title><album>Jumpin' Bill Carlisle</album></track>
+                <track><creator>John Lee Hooker</creator><title>One Bourbon, One Scotch, One Beer</title><album>20th Century Masters - The Millennium Collection: The Best Of John Lee Hooker</album></track>
+                <track><creator>David Soul</creator><title>Landlord</title><album>David Soul</album></track>
+                <track><creator>Sissy Bar</creator><title>Cop &amp; Friend</title><album>Songs For Peeps</album></track>
+                <track><creator>Ted Nugent</creator><title>Wang Dang Sweet Poontang</title><album>Great Gonzos: The Best Of Ted Nugent</album></track>
+                <track><creator>Dr. John</creator><title>Mean Cheatin' Woman</title><album>6 Hours Of The Greatest Blues Recordings Ever Made</album></track>
+                <track><creator>Junior Kimbrough</creator><title>All Night Long (Instumental)</title><album>God Knows I Tried</album></track>
+                <track><creator>David Axelrod</creator><title>Lifetime Monologue</title><album>The Edge</album></track>
+                <track><creator>The Black Keys</creator><title>The Lengths</title><album>Rubber Factory</album></track>
+                <track><creator>Thin Lizzy</creator><title>The Boys Are Back In Town</title><album>Jailbreak</album></track>
+                <track><creator>David Axelrod</creator><title>The Edge</title><album>The Edge</album></track>
+                <track><creator>Essential Media Group Presents</creator><title>Theme From “Hawaii 5-0”</title><album>Detective Show Favorites</album></track>
+            </trackList>
+        </playlist>
